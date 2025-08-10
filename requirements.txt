@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
+datasets
+scikit-learn
+pandas
+numpy
+pytest
+black
